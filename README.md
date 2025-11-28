@@ -73,8 +73,6 @@ src/
 ### Learning Assistance
 - Smart test generation
 - YouTube lecture analysis
-- Research paper summarization
-- Study progress tracking
 - Custom flashcard creation
 
 ## 🎨 UI/UX Design
@@ -143,13 +141,6 @@ The application is fully responsive and optimized for:
 - **Tablet**: Adapted layout with touch-friendly interactions
 - **Mobile**: Mobile-first design with optimized navigation
 
-## 🌙 Dark Mode
-
-The application supports automatic dark mode detection and manual toggle:
-- System preference detection
-- Manual toggle in navigation
-- Persistent user preference
-- Smooth transitions between modes
 
 ## 🔍 SEO Optimization
 
